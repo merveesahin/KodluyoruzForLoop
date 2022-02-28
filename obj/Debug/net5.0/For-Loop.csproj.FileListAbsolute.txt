@@ -1,0 +1,16 @@
+C:\Users\merves\Desktop\Pratikler\For-Loop\bin\Debug\net5.0\For-Loop.exe
+C:\Users\merves\Desktop\Pratikler\For-Loop\bin\Debug\net5.0\For-Loop.deps.json
+C:\Users\merves\Desktop\Pratikler\For-Loop\bin\Debug\net5.0\For-Loop.runtimeconfig.json
+C:\Users\merves\Desktop\Pratikler\For-Loop\bin\Debug\net5.0\For-Loop.runtimeconfig.dev.json
+C:\Users\merves\Desktop\Pratikler\For-Loop\bin\Debug\net5.0\For-Loop.dll
+C:\Users\merves\Desktop\Pratikler\For-Loop\bin\Debug\net5.0\For-Loop.pdb
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.csproj.AssemblyReference.cache
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.AssemblyInfoInputs.cache
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.AssemblyInfo.cs
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.dll
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\refint\For-Loop.dll
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.pdb
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\For-Loop.genruntimeconfig.cache
+C:\Users\merves\Desktop\Pratikler\For-Loop\obj\Debug\net5.0\ref\For-Loop.dll

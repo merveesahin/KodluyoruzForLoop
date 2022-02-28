@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hz3PDKRkT7qxPTH4jvm4A7CKjDzQQYXzyHvVd+Msy6wZX1jiVTyGjfK9Hh22jurbnSZMsdtQNrD/8AT7Dw5hzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\merves\\Desktop\\Pratikler\\For-Loop\\For-Loop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
